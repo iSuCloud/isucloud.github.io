@@ -1,5 +1,5 @@
 # SuCloud宿云的默认页面(custom_pages)
-[SuCloud宿云](su.9sep.org/)当前使用的默认页
+[SuCloud宿云](https://su.9sep.org/)当前使用的默认页
 
 ## 错误代码一览表
 
